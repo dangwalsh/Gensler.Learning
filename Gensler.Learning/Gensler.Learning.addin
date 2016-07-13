@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Learning Application</Name>
+    <AddInId>{3BD3980C-3488-4FB3-8448-0EB44A3C0EC6}</AddInId>
+    <Assembly>Gensler.Learning.dll</Assembly>
+    <FullClassName>Gensler.Learning.Application</FullClassName>
+    <VendorId>Gensler</VendorId>
+    <VendorDescription>Gensler</VendorDescription>
+  </AddIn>
+</RevitAddIns>
